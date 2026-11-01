@@ -47,3 +47,4 @@ FatFish 的价值是替用户承担软件操作与信息管理成本。
 
 - [Product Behavior Specification](./product-behavior-specification.md)
 - [Information Architecture Specification](./information-architecture-specification.md)
+- [Interaction Semantics Specification](./interaction-semantics-specification.md)
