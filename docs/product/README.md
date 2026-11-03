@@ -48,3 +48,5 @@ FatFish 的价值是替用户承担软件操作与信息管理成本。
 - [Product Behavior Specification](./product-behavior-specification.md)
 - [Information Architecture Specification](./information-architecture-specification.md)
 - [Interaction Semantics Specification](./interaction-semantics-specification.md)
+- [Components & Layout — Working Draft](./components-layout-specification-draft.md)
+- [FEIYU UI Baseline v0.4 — Review Freeze](./page-layout-baseline-v0.4.md)
